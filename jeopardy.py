@@ -11,7 +11,7 @@ if not pygame.mixer: print ('Warning, sound disabled')
 
 board_matrix=[
               ["First","Second","Third","Fourth","Fifth","Sixth"],
-              [100,200,200,200,200,200],
+              [200,200,200,200,200,200],
               [400,400,400,400,400,400],
               [600,600,600,600,600,600],
               [800,800,800,800,800,800],
